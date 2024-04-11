@@ -1,3 +1,4 @@
+![Image description](./public/dump1.png)
 # faucet frontend
 contracts deployed to Sepolia testnet.
 
@@ -14,8 +15,8 @@ token STT:0x4d0eE15866f17E4762478958c549d4E693A09376
 
 https://sepolia.etherscan.io/address/0x4d0eE15866f17E4762478958c549d4E693A09376
 
-## if you like it! 
-use the app as you like the app give it a star ;-)
+## Enjoy the App!
+Feel free to use the app as you wish. If you find it useful, please consider giving it a star on GitHub. I appreciate your support!
 
 
 
