@@ -14,5 +14,8 @@ token STT:0x4d0eE15866f17E4762478958c549d4E693A09376
 
 https://sepolia.etherscan.io/address/0x4d0eE15866f17E4762478958c549d4E693A09376
 
+## if you like it! 
+use the app as you like the app give it a star ;-)
+
 
 
