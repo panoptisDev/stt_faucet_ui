@@ -135,3 +135,30 @@ body {
     transform: rotate(10deg);
   }
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #123a00;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 0 1.0875rem 1.45rem;
+  padding-top: 0;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 0px; /* vertical padding 10px, horizontal padding 20px */
+}
+
