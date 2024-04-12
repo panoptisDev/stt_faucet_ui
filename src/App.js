@@ -5,7 +5,6 @@ import faucetContract from "./ethereum/faucet";
 import pot1 from './images/pot1.png';
 import pot2 from './images/pot2.png';
 import skull from './images/skull.png';
-import img from './images/panoptis60.png';
 
 function App() {
   const [walletAddress, setWalletAddress] = useState("");
@@ -177,12 +176,9 @@ function App() {
         <footer className="footer">
           <div className="content has-text-centered">
             <div className="footer-content">
-            <p>
-              Created with 💚 By @panoptisDev.
-          </p>
-          <img src={img} alt="Logo" />
-          </div>
-         </div> 
+            <p>Created with 💚 By @panoptisDev</p>
+          </div>  
+         </div>
         </footer>   
     </div>  
   );   
